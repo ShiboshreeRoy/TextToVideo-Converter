@@ -1,6 +1,6 @@
 # TextToVideo Converter
 
-![TextToVideo Banner](https://images.unsplash.com/photo-1626379953822-baec19c3accd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1200&h=400&q=80)
+![TextToVideo Banner](./src/demo/projectdemo.png)
 
 ## Overview
 
@@ -13,7 +13,7 @@ TextToVideo is a powerful web application that converts text descriptions into h
 - **Reference Image Support**: Upload images to guide the style and content of your generated videos
 - **Advanced Customization**: Fine-tune your videos with detailed controls
 
-![App Screenshot](https://images.unsplash.com/photo-1626379953822-baec19c3accd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=450&q=80)
+![App Screenshot](./src/demo/projectdemo.png)
 
 ### Advanced Controls
 - **Video Style**: Choose from multiple styles including Realistic, Animated, 3D Rendered, Cinematic, Artistic, Noir, Vintage, and Sci-Fi
@@ -64,7 +64,7 @@ npm run dev
 3. Wait for the generation process to complete
 4. Preview, download, or further edit your video
 
-![Generation Process](https://images.unsplash.com/photo-1535016120720-40c646be5580?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=450&q=80)
+![Generation Process](./src/demo/image.png)
 
 ### Advanced Video Generation
 
