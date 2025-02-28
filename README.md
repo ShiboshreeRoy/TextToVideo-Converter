@@ -39,8 +39,8 @@ TextToVideo is a powerful web application that converts text descriptions into h
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/text-to-video.git
-cd text-to-video
+git clone https://github.com/ShiboshreeRoy/TextToVideo-Converter.git
+cd TextToVideo-Converter
 ```
 
 2. Install dependencies:
