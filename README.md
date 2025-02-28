@@ -29,6 +29,8 @@ TextToVideo is a powerful web application that converts text descriptions into h
 - **Download Options**: Save your videos in various formats
 - **Edit & Regenerate**: Refine your videos after generation
 
+## 🚀 [Live Demo](https://texttovideogui.netlify.app/)
+
 ## Getting Started
 
 ### Prerequisites
